@@ -1,8 +1,3 @@
-<p align=”center”>
-
-<img  src=”https://drive.google.com/file/d/1ENwvLhHC9qNegKvmRmTDcCRTBGcZ-8FJ/view?usp=sharing" alt=”my banner”>
-
-</p>
 
 
 <h1 align="center">Hi 👋, I'm Archit Jain</h1>
