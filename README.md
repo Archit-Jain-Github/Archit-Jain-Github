@@ -3,7 +3,7 @@
   <a href="https://github.architjain.dev">
     <img src="https://img.shields.io/github/followers/Archit-Jain-Github?label=Follow&style=social" alt="GitHub Follow">
   </a>
-  <a href="https://twitter.x.architjain.dev">
+  <a href="https://x.architjain.dev">
     <img src="https://img.shields.io/twitter/follow/thissarchitjain?style=social" alt="Twitter Follow">
   </a>
   <a href="https://linkedin.architjain.dev">
