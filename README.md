@@ -22,12 +22,4 @@
   I'm a Developer and Hackathon Enthusiast with a strong focus on creating user-friendly experiences. I bring technical expertise and creativity to every project. Committed to continuous learning, I stay current with the latest trends and technologies in the tech industry. Beyond coding, I find inspiration in nature, space, and the vast mysteries of the universe.
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archit-Jain-Github&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Archit-Jain-Github&theme=darkhub" alt="GitHub Profile Trophy" />
-</p>
+---
