@@ -12,9 +12,12 @@
   </a>
 </p>
 
-<a href="https://512kb.club/" align="center">
+
+<p align="center">
+  <a href="https://512kb.club/">
     <img src="https://res.cloudinary.com/ddttmlcvy/image/upload/v1723821661/512kb_club_ftptxt.png" alt="Twitter Foll">
-</a>
+  </a>
+</p>
 
 <h3 align="center">🚀 About Me</h3>
 
