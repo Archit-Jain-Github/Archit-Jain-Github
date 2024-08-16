@@ -8,14 +8,14 @@
     <img src="https://img.shields.io/twitter/follow/thissarchitjain?style=social" alt="Twitter Follow">
   </a>
   <a href="https://linkedin.architjain.dev">
-    <img src="https://img.shields.io/badge/-thisisarchitjain-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisisarchitjain/" alt="LinkedIn" width = "25%">
+    <img src="https://img.shields.io/badge/-thisisarchitjain-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisisarchitjain/" alt="LinkedIn" >
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://512kb.club/">
-    <img src="https://res.cloudinary.com/ddttmlcvy/image/upload/v1723821661/512kb_club_ftptxt.png" alt="512kb Club">
+    <img src="https://res.cloudinary.com/ddttmlcvy/image/upload/v1723821661/512kb_club_ftptxt.png" alt="512kb Club" width = "25%">
   </a>
 </p>
 
