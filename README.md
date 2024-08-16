@@ -10,6 +10,12 @@
   <a href="https://linkedin.architjain.dev">
     <img src="https://img.shields.io/badge/-thisisarchitjain-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisisarchitjain/" alt="LinkedIn">
   </a>
+  <div style="text-decoration: none; color: #212121; font-weight: bold; padding: .25rem 0; font-family: sans-serif; transition: .4s;" class="kb-club">
+  <a target="blank" href="https://512kb.club" style="text-decoration: none; color: #212121; font-weight: bold; padding: .25rem 0; font-family: sans-serif; transition: .4s;">
+    <span style="border: 2px solid #64B5F6; padding: .25rem .5rem;">512KB Club</span>
+    <span style="border: 2px solid #64B5F6; padding: .25rem .5rem; background: #64B5F6; color: #212121;">Blue Team</span>
+  </a>
+</div>
 </p>
 
 <h3 align="center">🚀 About Me</h3>
