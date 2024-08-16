@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/twitter/follow/thissarchitjain?style=social" alt="Twitter Follow">
   </a>
   <a href="https://linkedin.architjain.dev">
-    <img src="https://img.shields.io/badge/-thisisarchitjain-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisisarchitjain/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-thisisarchitjain-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisisarchitjain/" alt="LinkedIn" width = "25%">
   </a>
 </p>
 
