@@ -10,10 +10,11 @@
   <a href="https://linkedin.architjain.dev">
     <img src="https://img.shields.io/badge/-thisisarchitjain-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisisarchitjain/" alt="LinkedIn">
   </a>
-  <a href="https://512kb.club/">
-    <img src="https://res.cloudinary.com/ddttmlcvy/image/upload/v1723821661/512kb_club_ftptxt.png" alt="Twitter Foll">
-  </a>
 </p>
+
+<a href="https://512kb.club/" align="center">
+    <img src="https://res.cloudinary.com/ddttmlcvy/image/upload/v1723821661/512kb_club_ftptxt.png" alt="Twitter Foll">
+</a>
 
 <h3 align="center">🚀 About Me</h3>
 
