@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://512kb.club/">
-    <img src="https://res.cloudinary.com/ddttmlcvy/image/upload/v1723821661/512kb_club_ftptxt.png" alt="512kb Club" width = "25%">
+    <img src="https://res.cloudinary.com/ddttmlcvy/image/upload/v1723821661/512kb_club_ftptxt.png" alt="512kb Club" width = "35%">
   </a>
 </p>
 
