@@ -1,5 +1,5 @@
 ![Banner](./bnr.png)
-# Hi 👋 I am Archit. अहं अर्चित अस्मि।
+# Hi 👋 I am [Archit](https://architjain.dev/). अहं अर्चित अस्मि।
 <p align="center">
   <a href="https://github.architjain.dev">
     <img src="https://img.shields.io/github/followers/Archit-Jain-Github?label=Follow&style=social" alt="GitHub Follow">
