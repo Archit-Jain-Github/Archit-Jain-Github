@@ -1,4 +1,5 @@
 ![Banner](./bnr.png)
+---
 # Hi 👋 I am [Archit](https://architjain.dev/). अहं [अर्चित](https://architjain.dev/) अस्मि।
 <p align="center">
   <a href="https://github.architjain.dev">
@@ -31,5 +32,6 @@
 
 ---
 
-
 <p align="center"><a href="https://www.buymeacoffee.com/architjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 3rem !important;width: 10rem !important;" ></a></p>
+
+---
