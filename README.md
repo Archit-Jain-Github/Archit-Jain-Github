@@ -27,7 +27,15 @@
 </p>
 
 <p align="center">
-  I'm a Developer and Hackathon Enthusiast with a strong focus on creating user-friendly experiences. I bring technical expertise and creativity to every project. Committed to continuous learning, I stay current with the latest trends and technologies in the tech industry. Beyond coding, I find inspiration in nature, space, and the vast mysteries of the universe.
+I love building solutions that bring value to lives.💡
+</p>
+
+<p align="left">
+A Developer and Hackathon Enthusiast with a strong focus on creating user-friendly experiences. Bringing technical expertise and creativity to every project with a commitment to continuous learning.
+</p>
+
+<p align="left">
+An aesthete admiring mysteries of the universe
 </p>
 
 ---
