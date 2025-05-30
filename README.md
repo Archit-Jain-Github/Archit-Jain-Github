@@ -42,4 +42,6 @@ An aesthete admiring mysteries of the universe
 
 <p align="center"><a href="https://www.buymeacoffee.com/architjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 3rem !important;width: 10rem !important;" ></a></p>
 
+<p align="center"><a href="https://www.digitalocean.com/?refcode=0a926b282ccf&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a></p>
+
 ---
