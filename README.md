@@ -39,6 +39,8 @@ Always exploring, always building. Open to collaborations!
 
 ---
 
+<br>
+
 > 📫 Feel free to reach out: [archit@architjain.dev](mailto:archit@architjain.dev)
 
 
