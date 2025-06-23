@@ -27,15 +27,15 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-<img src="octocat.png" height="200" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-
-Dreamer | Developer | Builder with a Product Mindset
-
-I love building solutions that bring value to lives. 💡
-
-Full-Stack JavaScript Engineer | Cloud & DevOps Practitioner | Hackathon Enthusiast. Passionate about solving real-world problems with code and collaborating on innovative projects.
-
-Always exploring, always building. Open to collaborations!
+<div style="overflow:auto; margin-bottom: 2rem;">
+  <img src="octocat.png" height="200" style="float: left; margin-right: 20px; margin-bottom: 10px;" />
+  <div>
+    <p>Dreamer | Developer | Builder with a Product Mindset</p>
+    <p>I love building solutions that bring value to lives. 💡</p>
+    <p>Full-Stack JavaScript Engineer | Cloud & DevOps Practitioner | Hackathon Enthusiast. Passionate about solving real-world problems with code and collaborating on innovative projects.</p>
+    <p>Always exploring, always building. Open to collaborations!</p>
+  </div>
+</div>
 
 ---
 
