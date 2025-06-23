@@ -29,16 +29,18 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <img src="octocat.png" alt="Octocat mascot" style="max-height: 50px; max-width: 50px; height: auto; width: auto;" />
+    <td style="vertical-align: top; padding-right: 15px;">
+      <img src="octocat.png" alt="Octocat mascot" style="max-height: 120px; width: auto;" />
     </td>
     <td style="vertical-align: top;">
       <p>Dreamer | Developer | Builder with a Product Mindset</p>
       <p>I love building solutions that bring value to lives. 💡</p>
       <p>Full-Stack JavaScript Engineer | Cloud & DevOps Practitioner | Hackathon Enthusiast. Passionate about solving real-world problems with code and collaborating on innovative projects.</p>
+      <p>Always exploring, always building. Open to collaborations!</p>
     </td>
   </tr>
 </table>
+
 
 Always exploring, always building. Open to collaborations!
 
