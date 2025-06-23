@@ -27,8 +27,8 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-<div style="overflow:auto; margin-bottom: 2rem;">
-  <img src="octocat.png" height="200" style="float: left; margin-right: 20px; margin-bottom: 10px;" />
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
+  <img src="octocat.png" alt="Octocat mascot" height="200" />
   <div>
     <p>Dreamer | Developer | Builder with a Product Mindset</p>
     <p>I love building solutions that bring value to lives. 💡</p>
