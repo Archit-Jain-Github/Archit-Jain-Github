@@ -27,15 +27,20 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
-  <img src="octocat.png" alt="Octocat mascot" height="200" />
-  <div>
-    <p>Dreamer | Developer | Builder with a Product Mindset</p>
-    <p>I love building solutions that bring value to lives. 💡</p>
-    <p>Full-Stack JavaScript Engineer | Cloud & DevOps Practitioner | Hackathon Enthusiast. Passionate about solving real-world problems with code and collaborating on innovative projects.</p>
-    <p>Always exploring, always building. Open to collaborations!</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <img src="octocat.png" alt="Octocat mascot" style="max-height: 200px; max-width: 200px; height: auto; width: auto;" />
+    </td>
+    <td style="vertical-align: top;">
+      <p>Dreamer | Developer | Builder with a Product Mindset</p>
+      <p>I love building solutions that bring value to lives. 💡</p>
+      <p>Full-Stack JavaScript Engineer | Cloud & DevOps Practitioner | Hackathon Enthusiast. Passionate about solving real-world problems with code and collaborating on innovative projects.</p>
+    </td>
+  </tr>
+</table>
+
+Always exploring, always building. Open to collaborations!
 
 ---
 
