@@ -35,8 +35,6 @@ I love building solutions that bring value to lives. 💡
 
 Full-Stack JavaScript Engineer | Cloud & DevOps Practitioner | Hackathon Enthusiast. Passionate about solving real-world problems with code and collaborating on innovative projects.
 
-<br/>
-
 Always exploring, always building. Open to collaborations!
 
 ---
