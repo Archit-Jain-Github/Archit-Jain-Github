@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 15px;">
-      <img src="octocat.png" alt="Octocat mascot" height="250" />
+      <img src="octocat.png" alt="Octocat mascot" height="250" style="margin-right: 30px;" />
     </td>
     <td style="vertical-align: top;">
       <p>Dreamer | Developer | Builder with a Product Mindset</p>
