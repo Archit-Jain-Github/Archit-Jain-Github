@@ -11,6 +11,7 @@
   <a href="https://linkedin.architjain.dev">
     <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn">
   </a>
+  [![Peerlist](https://github-readme-badge.peerlist.io/api/architjain?style=social)](https://peerlist.io/architjain)
   <a href="mailto:archit@architjain.dev">
     <img src="https://img.shields.io/badge/Mail-archit@architjain.dev-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
