@@ -2,13 +2,14 @@ name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 0 * * *"          # every day at 00:00 UTC (05:30 IST)
+    - cron: "30 */3 * * *"   # every 3 hours at :30 UTC (~every 3 hours IST too)
+
   workflow_dispatch:
 
 jobs:
   generate-svg:
     permissions:
-      contents: write            # needed to commit images
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
