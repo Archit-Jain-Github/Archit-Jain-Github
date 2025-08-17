@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4992&pause=1000&color=30A8DC&width=435&lines=%3E+Archit-Jain-Github%40github%3A~%24+whoami)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4992&pause=1000&color=30A8DC&width=435&lines=%3E+Archit-Jain-Github%40github%3A~%24+whoami" alt="Typing SVG" />
 </h3>
 
 <img src="octocat.png" align="left" height="200">
@@ -52,7 +52,7 @@ An aesthete admiring the mysteries of the universe. ✨
 ---
 
 <p align="center">
-  ![Archit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Archit-Jain-Github&theme=react-dark)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Archit-Jain-Github&theme=react-dark" alt="Archit's github activity graph" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ An aesthete admiring the mysteries of the universe. ✨
 ---
 
 <p align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Archit-Jain-Github&theme=onedark)
+  <img src="https://github-profile-trophy.vercel.app/?username=Archit-Jain-Github&theme=onedark" alt="trophy" />
 </p>
 
 ---
