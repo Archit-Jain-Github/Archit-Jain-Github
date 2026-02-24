@@ -21,14 +21,10 @@ jobs:
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
-          ball_color: "#a855f7"
-          paddle_color: "#a855f7"
-          bricks_colors: "#161b22,#4c1d95,#6d28d9,#8b5cf6,#a78bfa" 
 
       - name: Move generated SVGs
         run: |
           mkdir -p images
-          mv output/custom.svg images/breakout-purple.svg
           mv output/light.svg images/breakout-light.svg
           mv output/dark.svg images/breakout-dark.svg
 
@@ -40,6 +36,6 @@ jobs:
       - name: Commit and push SVGs
         run: |
           git pull origin main
-          git add images/breakout-purple.svg images/breakout-light.svg images/breakout-dark.svg
+          git add images/breakout-light.svg images/breakout-dark.svg
           git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
           git push
