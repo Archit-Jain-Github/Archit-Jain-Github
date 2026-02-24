@@ -61,7 +61,7 @@ An aesthete admiring the mysteries of the universe. ✨
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
-  <img src="./images/breakout-purple.svg" alt="GitHub Breakout Graph" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 </p>
 
