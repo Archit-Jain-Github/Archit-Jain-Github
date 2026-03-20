@@ -67,6 +67,10 @@ An aesthete admiring the mysteries of the universe. ✨
 
 ---
 
+[![GitCity](https://res.cloudinary.com/ddttmlcvy/image/upload/v1773990542/gitcity-archit-jain-github-landscape_qzqzqi.png)](https://www.thegitcity.com/?user=archit-jain-github)
+
+---
+
 <p align="center"><a href="https://www.buymeacoffee.com/architjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 3rem !important;width: 10rem !important;" ></a></p>
 
 ---
